@@ -1,0 +1,2 @@
+# SmartCar_Motherboard_MK66_4layers
+使用MK66主控的智能车磁车主板
